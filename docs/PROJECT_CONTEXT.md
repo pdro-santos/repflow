@@ -58,3 +58,13 @@ src/
 - Transparência.
 - Facilidade de uso.
 - Foco em organização.
+## Decisões de Produto
+
+- Um usuário pertence a apenas uma república.
+- Uma tarefa pode ter um ou mais responsáveis.
+- O sistema terá calendário semanal de limpeza.
+- A lista de compras será simples, com valor total, divisão por moradores e responsável pelo recebimento.
+- Penalidades já fazem parte da rotina das repúblicas e serão consideradas no MVP.
+- Moradores podem sair da república e novos moradores podem entrar.
+- Ex-moradores devem permanecer no histórico do sistema.
+- Dívidas antigas continuam registradas até serem quitadas.
